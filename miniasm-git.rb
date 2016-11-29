@@ -1,7 +1,6 @@
 class MiniasmGit < Formula
   desc "Ultrafast de novo assembly for long noisy reads"
   homepage "https://github.com/lh3/miniasm"
-
   # tag "bioinformatics"
 
   url "https://github.com/lh3/miniasm/archive/17d5bd12290e0e8a48a5df5afaeaef4d171aa133.zip"
