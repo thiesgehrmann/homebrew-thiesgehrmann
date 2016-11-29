@@ -5,7 +5,7 @@ class MiniasmGit < Formula
   # tag "bioinformatics"
 
   url "https://github.com/lh3/miniasm/archive/17d5bd12290e0e8a48a5df5afaeaef4d171aa133.zip"
-  sha256 "2950a8297a659d7ecbb396f55b3d72ed30bf1baa96b71ebb6642c15277d80d9c"
+  sha256 "3c00a2271d0af18e8a42151837666a2b1475f8b8a78bb03c461a1b268f82e1af"
 
   head "https://github.com/lh3/miniasm.git"
 
